@@ -40,3 +40,5 @@ int main(){
     }
 
 }
+
+//as i<=sqrt(n)is a mathematical function and it is called repeatedly so, use this: i*i<=n
