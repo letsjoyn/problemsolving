@@ -1,1 +1,1 @@
-New problems everyday
+categorizing problems that i solve everyday on codeforces and leetcode.
