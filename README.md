@@ -1,1 +1,1 @@
-My Competitive Programming Diary
+New problems everyday
